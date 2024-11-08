@@ -1,1 +1,1 @@
-"{\"manifest\":{\"host\":\"https://tomandhetty.online/file\",\"BetGame\":{\"native\":\"e9132\",\"web\":\"cb2cd\"},\"BTGames\":{\"native\":\"86fc6\",\"web\":\"50d7e\"},\"CardGame\":{\"native\":\"91a7c\",\"web\":\"31b67\"},\"Lobby\":{\"native\":\"b8788\",\"web\":\"0c6b2\"}},\"release\":1,\"api\":\"http://103.153.74.25:10443/api\",\"bundle\":\"https://tomandhetty.online/file/manifest.json\",\"path\":\"http://192.168.50.65/file/rs/\",\"setting\":\"\"}"
+infogame
